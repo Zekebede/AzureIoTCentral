@@ -46,10 +46,10 @@ from azure.iot.device import Message
 from azure.iot.device import MethodResponse
 
 # user configurable values
-id_scope = "[application scope id]"
-device_id = "[device id]"
-group_symmetric_key = "[group symmetric key]"
-model_identity = "[device template identity]"
+id_scope = "0ne001B0DE4"
+device_id = "17wdglmtnso"
+group_symmetric_key = ""
+model_identity = "urn:sample:python:1="
 use_websockets = True
 
 # global variable declarations
